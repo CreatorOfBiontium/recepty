@@ -1,6 +1,6 @@
 var images = [
-    "https://creatorofbiontium.github.io/styleth/backgrounds/pic1.jpg",
-    "https://creatorofbiontium.github.io/styleth/backgrounds/pic2.jpg"
+    "https://creatorofbiontium.github.io/recepty/styleth/backgrounds/pic1.jpg",
+    "https://creatorofbiontium.github.io/recepty/styleth/backgrounds/pic2.jpg"
   ];
 
   function getRandomImage(images) {
